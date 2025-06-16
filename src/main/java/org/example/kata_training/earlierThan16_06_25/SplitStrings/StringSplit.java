@@ -1,4 +1,4 @@
-package org.example.kata_training.SplitStrings;
+package org.example.kata_training.earlierThan16_06_25.SplitStrings;
 
 public class StringSplit {
     public static String[] solution(String s) {

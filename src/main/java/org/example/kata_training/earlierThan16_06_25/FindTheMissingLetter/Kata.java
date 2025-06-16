@@ -1,4 +1,4 @@
-package org.example.kata_training.FindTheMissingLetter;
+package org.example.kata_training.earlierThan16_06_25.FindTheMissingLetter;
 
 
 public class Kata {

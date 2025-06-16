@@ -1,4 +1,4 @@
-package org.example.kata_training.OnesAndZeros;
+package org.example.kata_training.earlierThan16_06_25.OnesAndZeros;
 
 import java.util.List;
 

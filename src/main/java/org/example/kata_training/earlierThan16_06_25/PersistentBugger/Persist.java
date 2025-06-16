@@ -1,7 +1,5 @@
-package org.example.kata_training.PersistentBugger;
+package org.example.kata_training.earlierThan16_06_25.PersistentBugger;
 
-
-import java.util.stream.IntStream;
 
 public class Persist {
     public static int persistence(long n) {
